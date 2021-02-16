@@ -3,9 +3,9 @@
 Portfólio criado com o objetivo de divulgar meus trabalhos e projetos na área de Ciência de Dados (Data Science).
 
 Contatos:
-E-mail: <luani.piva@laura-br.com>; <luanipiva@yahoo.com.br>
-Fone: 55-41-9770-4370
-LinkedIn: <https://www.linkedin.com/in/luani-rosa-de-o-piva-89a489ba/>
+##E-mail: <luani.piva@laura-br.com>; <luanipiva@yahoo.com.br>
+##Fone: 55-41-9770-4370
+##LinkedIn: <https://www.linkedin.com/in/luani-rosa-de-o-piva-89a489ba/>
 
 
 # Projetos 
