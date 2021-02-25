@@ -15,7 +15,21 @@ O que é obrigatório em um projeto de portfólio?
   
 2. Premissas do negócio:
   - Tudo aquilo que assume para resolver o problema;
-  - Pesquisa: como as pessoas resolvem esse tipo de problema?)
+  - Pesquisa: como as pessoas resolvem esse tipo de problema?
+  
+3. Planejamento da solução.
+
+4. Os cinco principais insights do negócio:
+  - Vem da validação de hipóteses.
+
+5. Resultados financeiros do negócio.
+
+6. Conclusão:
+  - Seu objetivo inicial foi alcançado?
+
+7. Próximos passos:
+  - Novas ideias;
+  - O que pode ser melhorado.
 
 A seguir serão detalhados os projetos que integram o presente portfólio. Os projetos são apresentados em iPython Notebooks (publicados no Github), arquivos R markdown (publicados no Rpubs) e aplicações Power BI (com link direto para a aplicação).
 * Linguagem R
