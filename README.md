@@ -9,6 +9,7 @@ Contatos:
 
 
 # Projetos 
+
 O que é obrigatório em um projeto de portfólio?
 1. Questão de negócio:
   - O que você quer resolver?
